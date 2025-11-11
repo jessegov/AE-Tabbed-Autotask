@@ -8,3 +8,6 @@ Forces Chrome to open Autotask pop-ups as tabs in your main window with smarter 
 
 Available soon on [Chrome Web Store](#).
 
+
+## Screenshots
+![Screenshot](https://github.com/againstevrythng/AE-Tabbed-Autotask/blob/main/Screenshot.jpg)
