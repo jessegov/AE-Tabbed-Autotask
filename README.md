@@ -15,3 +15,6 @@ Text Formatting:
 
 Modal Pop-Up:
 ![Modal Pop-Up](https://github.com/againstevrythng/AE-Tabbed-Autotask/blob/main/Screenshot2.jpg)
+
+Formatting Instructions:
+![Formatting Instructions](https://github.com/againstevrythng/AE-Tabbed-Autotask/blob/main/Screenshot3.jpg)
